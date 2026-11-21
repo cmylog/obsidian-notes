@@ -1,0 +1,496 @@
+[
+  {
+    "id": "99a433f95d58",
+    "path": "Backend from First Principles.md",
+    "title": "Backend from First Principles",
+    "isOverview": true,
+    "created": "2026-10-08",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "computer-science"
+    ],
+    "summary": "Beginner-friendly study notes that follow the Backend from First Principles playlist, one folder per video, in the original teaching order. The series teaches general backend ideas rather than one programming l",
+    "wordCount": 561
+  },
+  {
+    "id": "851a428c6b70",
+    "path": "01 Roadmap for Backend from First Principles/01 Roadmap for Backend from First Principles.md",
+    "title": "01 Roadmap for Backend from First Principles",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "roadmap"
+    ],
+    "summary": "This lesson is a map of the whole series. It explains why the series exists and then walks through every topic it will cover, in order. Use this note as a checklist: when you finish a lesson, come back here and",
+    "wordCount": 4404
+  },
+  {
+    "id": "45b6fcc9af81",
+    "path": "02 Walk the Path of a True Backend Engineer/02 Walk the Path of a True Backend Engineer.md",
+    "title": "02 Walk the Path of a True Backend Engineer",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "learning-path"
+    ],
+    "summary": "This short lesson sets expectations. Lesson 01 listed the topics. This one describes the learning path: three phases that build on each other, from ideas → code → full projects.",
+    "wordCount": 980
+  },
+  {
+    "id": "6544a6690813",
+    "path": "03 What Is a Backend/03 What Is a Backend.md",
+    "title": "03 What Is a Backend",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "networking"
+    ],
+    "summary": "This lesson answers three questions:",
+    "wordCount": 2550
+  },
+  {
+    "id": "efdc737f67a4",
+    "path": "04 Benefits of Learning Backend from First Principles/04 Benefits of Learning Backend from First Principles.md",
+    "title": "04 Benefits of Learning Backend from First Principles",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "learning-path"
+    ],
+    "summary": "This lesson explains why learning backend \"from first principles\" is worth it. It starts with common real-world struggles, lists six concrete benefits, and ends by defining what \"first principles\" means in this",
+    "wordCount": 1584
+  },
+  {
+    "id": "bec38406705b",
+    "path": "05 HTTP for Backend Engineers/05 HTTP for Backend Engineers.md",
+    "title": "05 HTTP for Backend Engineers",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "http",
+      "networking"
+    ],
+    "summary": "HTTP (HyperText Transfer Protocol) is the set of rules browsers and servers use to talk to each other: to send data and to receive it. Clients and servers can use other protocols too (WebSocket, gRPC…), but HTT",
+    "wordCount": 6153
+  },
+  {
+    "id": "70ed9d770ded",
+    "path": "06 Routing/06 Routing.md",
+    "title": "06 Routing",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "http",
+      "routing"
+    ],
+    "summary": "Routing is how a server decides which piece of code should handle an incoming request. This lesson covers the basic idea, path and query parameters, and the common kinds of routes you'll see in almost every bac",
+    "wordCount": 1993
+  },
+  {
+    "id": "02f96088c944",
+    "path": "07 Serialization and Deserialization/07 Serialization and Deserialization.md",
+    "title": "07 Serialization and Deserialization",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "serialization",
+      "json"
+    ],
+    "summary": "How can a JavaScript app and a Rust server, two programs with completely different data types, understand each other's data? This lesson answers that with serialization and deserialization, and introduces JSON,",
+    "wordCount": 1926
+  },
+  {
+    "id": "65e24a8840aa",
+    "path": "08 Authentication and Authorization/08 Authentication and Authorization.md",
+    "title": "08 Authentication and Authorization",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "security",
+      "authentication",
+      "authorization"
+    ],
+    "summary": "Every time you sign up or log in somewhere, you go through an authentication flow. This lesson explains what authentication and authorization are, where they came from, the building blocks (sessions, JWTs, cook",
+    "wordCount": 5718
+  },
+  {
+    "id": "0167c3c7cd8a",
+    "path": "09 Validations and Transformations/09 Validations and Transformations.md",
+    "title": "09 Validations and Transformations",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "validation",
+      "security"
+    ],
+    "summary": "This lesson isn't a large or complex topic. It's a set of rules and guidelines to keep in mind when designing APIs. Validation and transformation are mostly about two things: data integrity (keeping data correc",
+    "wordCount": 2675
+  },
+  {
+    "id": "dbcf43d1a1fa",
+    "path": "10 Controllers, Services, Repositories, Middlewares and Request Context/10 Controllers, Services, Repositories, Middlewares and Request Context.md",
+    "title": "10 Controllers, Services, Repositories, Middlewares and Request Context",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "architecture",
+      "middleware"
+    ],
+    "summary": "This lesson covers three closely related topics together, because each one only makes sense alongside the others:",
+    "wordCount": 3364
+  },
+  {
+    "id": "8c48ba9439e6",
+    "path": "11 REST API Design/11 REST API Design.md",
+    "title": "11 REST API Design",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "api-design",
+      "rest"
+    ],
+    "summary": "API design is something backend engineers spend a lot of time on. This lesson focuses on REST APIs, one of the most used API styles. (Others exist, such as RPC and GraphQL.) It covers where REST came from, what",
+    "wordCount": 4635
+  },
+  {
+    "id": "dadbe982e96a",
+    "path": "12 Databases with Postgres/12 Databases with Postgres.md",
+    "title": "12 Databases with Postgres",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "databases",
+      "postgres",
+      "sql"
+    ],
+    "summary": "Reading and writing a database is one of the most common things a backend does. This lesson builds up from \"why do we need a database at all?\" to designing a real schema in PostgreSQL, writing the queries behin",
+    "wordCount": 8778
+  },
+  {
+    "id": "557d08365533",
+    "path": "13 Caching/13 Caching.md",
+    "title": "13 Caching",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "caching",
+      "redis"
+    ],
+    "summary": "Caching is one of the main reasons fast applications feel fast. This lesson defines caching, shows how Google, Netflix and X (Twitter) rely on it, walks through the three levels of caching a backend engineer me",
+    "wordCount": 4145
+  },
+  {
+    "id": "42c325887c10",
+    "path": "14 Task Queues and Background Jobs/14 Task Queues and Background Jobs.md",
+    "title": "14 Task Queues and Background Jobs",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "background-jobs",
+      "task-queues"
+    ],
+    "summary": "Some work doesn't need to happen while the user waits. This lesson explains background jobs, how a task queue hands that work to separate workers, the kinds of tasks you'll meet, and how to design them so they'",
+    "wordCount": 3498
+  },
+  {
+    "id": "bd9ee16a4914",
+    "path": "15 Full-Text Search with Elasticsearch/15 Full-Text Search with Elasticsearch.md",
+    "title": "15 Full-Text Search with Elasticsearch",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "search",
+      "elasticsearch"
+    ],
+    "summary": "Why does a simple LIKE search fall apart once you have millions of rows, and how do search engines return relevant results in milliseconds, even when the user makes a typo? This lesson tells that story and intr",
+    "wordCount": 2668
+  },
+  {
+    "id": "8663a7933944",
+    "path": "16 Error Handling and Fault-Tolerant Systems/16 Error Handling and Fault-Tolerant Systems.md",
+    "title": "16 Error Handling and Fault-Tolerant Systems",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "error-handling",
+      "reliability"
+    ],
+    "summary": "This lesson is about a mindset, not a tool or framework. Errors are a normal part of running a backend: database queries fail, external APIs time out, users send bad data, and business logic hits edge cases nob",
+    "wordCount": 3893
+  },
+  {
+    "id": "5f0d37d8d017",
+    "path": "17 Configuration Management/17 Configuration Management.md",
+    "title": "17 Configuration Management",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "configuration",
+      "security"
+    ],
+    "summary": "Configuration is much more than \"where do I put the database password\". This lesson covers what counts as configuration, the main types, where configuration is stored, why it differs between environments, and h",
+    "wordCount": 2627
+  },
+  {
+    "id": "fd5ae26cb8a0",
+    "path": "18 Logging, Monitoring and Observability/18 Logging, Monitoring and Observability.md",
+    "title": "18 Logging, Monitoring and Observability",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "logging",
+      "monitoring",
+      "observability"
+    ],
+    "summary": "Once a backend is running in production, you need a way to know what it is doing, whether it is healthy, and why it broke when something goes wrong. Logging, monitoring and observability are the practices that ",
+    "wordCount": 3952
+  },
+  {
+    "id": "d20931fe4081",
+    "path": "19 Graceful Shutdown/19 Graceful Shutdown.md",
+    "title": "19 Graceful Shutdown",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "graceful-shutdown",
+      "operating-systems"
+    ],
+    "summary": "Every server has to stop at some point: for a deployment, a restart, or scaling down. Graceful shutdown is how a backend stops without breaking the work it is in the middle of. This lesson covers why it matters",
+    "wordCount": 3079
+  },
+  {
+    "id": "56149bcfb404",
+    "path": "20 Backend Security/20 Backend Security.md",
+    "title": "20 Backend Security",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "security",
+      "authentication",
+      "authorization"
+    ],
+    "summary": "Security mistakes can be financially destructive for a business: lost data, lost trust, lost money. This lesson does not try to teach every security technique. Its goal is to build a security mindset: a healthy",
+    "wordCount": 8226
+  },
+  {
+    "id": "835c4bfaacf0",
+    "path": "21.1 Scaling and Performance Engineering Part 1/21.1 Scaling and Performance Engineering Part 1.md",
+    "title": "21.1 Scaling and Performance Engineering Part 1",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "performance",
+      "scaling",
+      "databases",
+      "caching"
+    ],
+    "summary": "\"Scaling\" and \"performance\" are popular buzzwords, and they mean different things for frontends, infrastructure and backends. This lesson sticks to the backend and builds up layer by layer: what \"fast\" means, h",
+    "wordCount": 5664
+  },
+  {
+    "id": "9bd33cb0cb83",
+    "path": "21.2 Scaling and Performance Engineering Part 2/21.2 Scaling and Performance Engineering Part 2.md",
+    "title": "21.2 Scaling and Performance Engineering Part 2",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "performance",
+      "scaling",
+      "distributed-systems"
+    ],
+    "summary": "This lesson continues horizontal scaling from Part 1. (The video was split in two only because of a recording problem.) It covers what makes horizontal scaling possible (statelessness), load balancers, scaling ",
+    "wordCount": 5675
+  },
+  {
+    "id": "e24dd68d4c93",
+    "path": "22 Concurrency and Parallelism/22 Concurrency and Parallelism.md",
+    "title": "22 Concurrency and Parallelism",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "concurrency",
+      "parallelism",
+      "operating-systems"
+    ],
+    "summary": "Every backend must handle many things at once. A server that can only process one request at a time would make thousands of other users wait or fail. This lesson isn't a list of techniques. It builds a mental m",
+    "wordCount": 4815
+  },
+  {
+    "id": "119afbe56613",
+    "path": "23 Object Storage Part 1/23 Object Storage Part 1.md",
+    "title": "23 Object Storage Part 1",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "object-storage",
+      "s3",
+      "file-uploads"
+    ],
+    "summary": "Sooner or later, almost every backend has to accept files from users: profile pictures, documents, videos. Files look simple, but they behave very differently from the JSON data a backend usually handles. They ",
+    "wordCount": 7372
+  },
+  {
+    "id": "3b2d42fd607f",
+    "path": "24 Object Storage Part 2/24 Object Storage Part 2.md",
+    "title": "24 Object Storage Part 2",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "object-storage",
+      "s3",
+      "file-uploads",
+      "cdn"
+    ],
+    "summary": "Part 1 explained what object storage is, how it works inside, and how to upload files with pre-signed URLs. That works well for files up to a few hundred megabytes. This part covers what happens with really lar",
+    "wordCount": 5035
+  },
+  {
+    "id": "a80a87484e49",
+    "path": "25 Real-Time Backends/25 Real-Time Backends.md",
+    "title": "25 Real-Time Backends",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "real-time",
+      "websockets",
+      "sse",
+      "pub-sub"
+    ],
+    "summary": "Everything the backend has done so far follows one shape: the browser asks, the server answers. Some features need the opposite: the server must tell the browser something it never asked for, the moment it happ",
+    "wordCount": 5195
+  },
+  {
+    "id": "618509296bd8",
+    "path": "26 Testing for Backend Engineers/26 Testing for Backend Engineers.md",
+    "title": "26 Testing for Backend Engineers",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "testing",
+      "tdd",
+      "code-quality"
+    ],
+    "summary": "This lesson covers the testing a backend engineer writes and runs themselves, which is most of the testing in a typical team. It explains what a test really is, the kinds of tests and a practical way to classif",
+    "wordCount": 7039
+  },
+  {
+    "id": "9437855a073e",
+    "path": "27 The Twelve-Factor App/27 The Twelve-Factor App.md",
+    "title": "27 The Twelve-Factor App",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "twelve-factor",
+      "deployment",
+      "architecture"
+    ],
+    "summary": "Throughout this series, many rules were stated without being defended. Why does configuration go in environment variables? Why does a server bind to a port? Why do logs go to standard output? Why must processes",
+    "wordCount": 6643
+  },
+  {
+    "id": "cd953a539f97",
+    "path": "28 OpenAPI/28 OpenAPI.md",
+    "title": "28 OpenAPI",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "openapi",
+      "api-design",
+      "documentation"
+    ],
+    "summary": "Inside one codebase, the compiler checks that each function call matches the function's signature. An HTTP call to another program gets no such check. OpenAPI is a standard way to write down an HTTP API's \"sign",
+    "wordCount": 6393
+  },
+  {
+    "id": "556bf118298a",
+    "path": "29 Webhooks/29 Webhooks.md",
+    "title": "29 Webhooks",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "webhooks",
+      "security",
+      "distributed-systems"
+    ],
+    "summary": "A webhook is an HTTP POST request that another service sends to your server when something happens on its side. It is a \"reverse API call\": instead of you asking \"did it happen yet?\", the other service tells yo",
+    "wordCount": 6903
+  },
+  {
+    "id": "56f118c34c42",
+    "path": "30 DevOps for Backend Engineers/30 DevOps for Backend Engineers.md",
+    "title": "30 DevOps for Backend Engineers",
+    "isOverview": false,
+    "created": "2026-11-03",
+    "status": "complete",
+    "tags": [
+      "backend",
+      "devops",
+      "containers",
+      "kubernetes",
+      "deployment"
+    ],
+    "summary": "Everything built in this series so far runs on one machine, over localhost, where no user can reach it. This lesson follows a change from a commit on your laptop to a running, reachable service that stays up wh",
+    "wordCount": 11848
+  }
+]

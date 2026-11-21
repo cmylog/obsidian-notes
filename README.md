@@ -4,7 +4,7 @@ A React and Vite reading site for the Obsidian notes in:
 
 `/data/Documents/obsidian_notes/Notes/Backend from First Principles`
 
-The source Markdown files are read by `scripts/sync_notes.py` and copied into `src/generated/notes.json`. The site displays 31 lesson notes plus the collection overview, with full text search, Obsidian links between included notes, tables, code blocks, section navigation, and browser-local reading progress.
+The source Markdown files are read by `scripts/sync_notes.py` and copied into `src/generated/`. The site displays 31 lesson notes plus the collection overview, with chapter navigation, full text search (Ctrl/⌘ K), Obsidian links between included notes, tables, code blocks, section navigation, and browser-local reading progress.
 
 ## Run locally
 
